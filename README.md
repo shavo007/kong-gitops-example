@@ -4,6 +4,11 @@ This repository provides a template for doing your own demonstration of the end 
 
 ![e2e](https://kong-sales-engineering.s3.us-east-2.amazonaws.com/images/e2e.png)
 
+* decK - Provides the ability to configure Kong in a Declarative way
+* inso - Provides the ability to runs tests and generate declarative configuration from Open API specifications
+* portal - Provides the ability to automate the management of the Kong Developer portal
+* Admin API - RESTful API to manage all Kong entities
+
 Prerequisites
 ---
 * Clone the [kong-plugin-mocking](https://github.com/Kong/kong-plugin-mocking) repository to your machine. 
